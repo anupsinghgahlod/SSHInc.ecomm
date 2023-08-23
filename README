@@ -1,3 +1,3 @@
-SSH Inc. (E-commerce Initiative)
+Portfolio Project - SSH Inc. (E-commerce Initiative)
 
 SSH Inc., known as The Shopping Spree Haven, currently operates a physical store outlet in a sub-urban city. In response to the growing trend of digitalization and the thriving e-commerce industry, the company has made the strategic decision to launch an e-commerce platform for their store. They have been running their e-commerce operations for several weeks and now aim to gain valuable insights, optimize processes, and better understand customer behaviour using data from five organized tables: customers, products, orders, drivers, and subscriptions. Leveraging this dataset, the company performs various essential data operations, including data retrieval, joins, data extraction, data exploration, data cleaning, and transformation. Their ultimate goal is to enhance their business operations through this e-commerce initiative.
